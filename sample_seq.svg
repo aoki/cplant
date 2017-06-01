@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="358px" preserveAspectRatio="none" style="width:315px;height:358px;" version="1.1" viewBox="0 0 315 358" width="315px" zoomAndPan="magnify"><defs/><g><text fill="#363D5D" font-family="'Hiragino Sans'" font-size="20" lengthAdjust="spacingAndGlyphs" textLength="168" x="77.25" y="29.3359">Sample Sequence</text><rect fill="#FFFFFF" height="128.8867" style="stroke: #37A77C; stroke-width: 1.0;" width="10" x="79" y="140.332"/><rect fill="#FFFFFF" height="77.332" style="stroke: #37A77C; stroke-width: 1.0;" width="10" x="194" y="166.1094"/><rect fill="#FFFFFF" height="25.7773" style="stroke: #37A77C; stroke-width: 1.0;" width="10" x="278" y="191.8867"/><line style="stroke: #37A77C; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;" x1="22" x2="22" y1="113.332" y2="287.9961"/><line style="stroke: #37A77C; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;" x1="84" x2="84" y1="113.332" y2="287.9961"/><line style="stroke: #37A77C; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;" x1="198.5" x2="198.5" y1="113.332" y2="287.9961"/><line style="stroke: #37A77C; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;" x1="282.5" x2="282.5" y1="113.332" y2="287.9961"/><text fill="#363D5D" font-family="'Hiragino Sans'" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="22" x="8" y="111.2227">User</text><ellipse cx="22" cy="49.5547" fill="#363D5D" rx="8" ry="8" style="stroke: #363D5D; stroke-width: 1.0;"/><path d="M22,57.5547 L22,84.5547 M9,65.5547 L35,65.5547 M22,84.5547 L9,99.5547 M22,84.5547 L35,99.5547 " fill="#363D5D" style="stroke: #363D5D; stroke-width: 1.0;"/><text fill="#363D5D" font-family="'Hiragino Sans'" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="22" x="8" y="296.6641">User</text><ellipse cx="22" cy="307.7734" fill="#363D5D" rx="8" ry="8" style="stroke: #363D5D; stroke-width: 1.0;"/><path d="M22,315.7734 L22,342.7734 M9,323.7734 L35,323.7734 M22,342.7734 L9,357.7734 M22,342.7734 L35,357.7734 " fill="#363D5D" style="stroke: #363D5D; stroke-width: 1.0;"/><rect fill="#363D5D" height="25.7773" style="stroke: #363D5D; stroke-width: 0.0;" width="64" x="52" y="86.5547"/><text fill="#FFFFFF" font-family="'Hiragino Sans'" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="50" x="59" y="103.2227">First Class</text><rect fill="#363D5D" height="25.7773" style="stroke: #363D5D; stroke-width: 0.0;" width="64" x="52" y="286.9961"/><text fill="#FFFFFF" font-family="'Hiragino Sans'" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="50" x="59" y="303.6641">First Class</text><rect fill="#363D5D" height="25.7773" style="stroke: #363D5D; stroke-width: 0.0;" width="77" x="160.5" y="86.5547"/><text fill="#FFFFFF" font-family="'Hiragino Sans'" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="63" x="167.5" y="103.2227">Second Class</text><rect fill="#363D5D" height="25.7773" style="stroke: #363D5D; stroke-width: 0.0;" width="77" x="160.5" y="286.9961"/><text fill="#FFFFFF" font-family="'Hiragino Sans'" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="63" x="167.5" y="303.6641">Second Class</text><rect fill="#363D5D" height="25.7773" style="stroke: #363D5D; stroke-width: 0.0;" width="63" x="251.5" y="86.5547"/><text fill="#FFFFFF" font-family="'Hiragino Sans'" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="49" x="258.5" y="103.2227">Last Class</text><rect fill="#363D5D" height="25.7773" style="stroke: #363D5D; stroke-width: 0.0;" width="63" x="251.5" y="286.9961"/><text fill="#FFFFFF" font-family="'Hiragino Sans'" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="49" x="258.5" y="303.6641">Last Class</text><rect fill="#FFFFFF" height="128.8867" style="stroke: #37A77C; stroke-width: 1.0;" width="10" x="79" y="140.332"/><rect fill="#FFFFFF" height="77.332" style="stroke: #37A77C; stroke-width: 1.0;" width="10" x="194" y="166.1094"/><rect fill="#FFFFFF" height="25.7773" style="stroke: #37A77C; stroke-width: 1.0;" width="10" x="278" y="191.8867"/><polygon fill="#F6363F" points="67,136.332,77,140.332,67,144.332,71,140.332" style="stroke: #F6363F; stroke-width: 1.0;"/><line style="stroke: #F6363F; stroke-width: 1.0;" x1="22" x2="73" y1="140.332" y2="140.332"/><text fill="#363D5D" font-family="'Hiragino Sans'" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="38" x="29" y="137">DoWork</text><polygon fill="#F6363F" points="182,162.1094,192,166.1094,182,170.1094,186,166.1094" style="stroke: #F6363F; stroke-width: 1.0;"/><line style="stroke: #F6363F; stroke-width: 1.0;" x1="89" x2="188" y1="166.1094" y2="166.1094"/><text fill="#363D5D" font-family="'Hiragino Sans'" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="75" x="96" y="162.7773">Create Request</text><polygon fill="#F6363F" points="266,187.8867,276,191.8867,266,195.8867,270,191.8867" style="stroke: #F6363F; stroke-width: 1.0;"/><line style="stroke: #F6363F; stroke-width: 1.0;" x1="204" x2="272" y1="191.8867" y2="191.8867"/><text fill="#363D5D" font-family="'Hiragino Sans'" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="38" x="211" y="188.5547">DoWork</text><polygon fill="#F6363F" points="215,213.6641,205,217.6641,215,221.6641,211,217.6641" style="stroke: #F6363F; stroke-width: 1.0;"/><line style="stroke: #F6363F; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="209" x2="282" y1="217.6641" y2="217.6641"/><text fill="#363D5D" font-family="'Hiragino Sans'" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="50" x="221" y="214.332">WorkDone</text><line style="stroke: #37A77C; stroke-width: 2.0;" x1="274" x2="292" y1="208.6641" y2="226.6641"/><line style="stroke: #37A77C; stroke-width: 2.0;" x1="274" x2="292" y1="226.6641" y2="208.6641"/><polygon fill="#F6363F" points="100,239.4414,90,243.4414,100,247.4414,96,243.4414" style="stroke: #F6363F; stroke-width: 1.0;"/><line style="stroke: #F6363F; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="94" x2="198" y1="243.4414" y2="243.4414"/><text fill="#363D5D" font-family="'Hiragino Sans'" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="81" x="106" y="240.1094">Request Created</text><polygon fill="#F6363F" points="33,265.2188,23,269.2188,33,273.2188,29,269.2188" style="stroke: #F6363F; stroke-width: 1.0;"/><line style="stroke: #F6363F; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="27" x2="83" y1="269.2188" y2="269.2188"/><text fill="#363D5D" font-family="'Hiragino Sans'" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="25" x="39" y="265.8867">Done</text><!--
+@startuml
+
+' Base Setting
+skinparam Shadowing false
+skinparam BackgroundColor transparent
+skinparam ComponentStyle uml2
+skinparam Default {
+  FontName  'Hiragino Sans'
+  FontColor #363D5D
+  FontSize  10
+  FontStyle plain
+}
+
+skinparam Sequence {
+  ArrowThickness 1
+  ArrowColor #F6363F
+  ActorBorderThickness 1
+  LifeLineBorderColor #37A77C
+  ParticipantBorderThickness 0
+}
+skinparam Participant {
+  BackgroundColor #363D5D
+  BorderColor #363D5D
+  FontColor #FFFFFF
+}
+
+skinparam Actor {
+  BackgroundColor #363D5D
+  BorderColor #363D5D
+}
+
+title <size:20>Sample Sequence</size>
+
+actor User
+participant "First Class" as A
+participant "Second Class" as B
+participant "Last Class" as C
+
+User -> A: DoWork
+activate A
+
+A -> B: Create Request
+activate B
+
+B -> C: DoWork
+activate C
+C - -> B: WorkDone
+destroy C
+
+B - -> A: Request Created
+deactivate B
+
+A - -> User: Done
+deactivate A
+
+@enduml
+
+PlantUML version 1.2017.13(Thu May 11 01:52:33 JST 2017)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 1.8.0_45-b14
+Operating System: Mac OS X
+OS Version: 10.11.6
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>
