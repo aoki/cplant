@@ -3,7 +3,6 @@ cplant(Color PLANT uml) is theme for the plant UML.
 
 ```uml
 @startuml
-!include themes/azusa-color.pu
 
 title <size:20>Sample Sequence</size>
 
