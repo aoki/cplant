@@ -1,6 +1,8 @@
 # cplant
 cplant(Color PLANT uml) is theme for the plant UML.
 
+![azusa-color](sample_seq.png)
+
 ```uml
 @startuml
 !define BLACK   #363D5D
@@ -69,5 +71,3 @@ deactivate A
 @enduml
 
 ```
-
-![azusa-color](sample_seq.png)
